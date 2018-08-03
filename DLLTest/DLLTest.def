@@ -1,0 +1,4 @@
+LIBRARY	"DLLTest"
+
+EXPORTS
+ add @ 1
